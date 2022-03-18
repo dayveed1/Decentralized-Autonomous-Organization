@@ -6,4 +6,4 @@ In a DAO, however, this process is democratized, and any member can create a pro
 Each proposal created has a deadline for voting, and after the deadline the decision is made in favour of the voting outcome (YES or NO).
 
 
-I launched a DAO for holders of your CryptoDevs NFTs.
+I launched a DAO for holders of CryptoDevs NFTs.
